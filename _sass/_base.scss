@@ -8,8 +8,11 @@ body {
     @include serif-font;
 }
 
+
+// A line (margin) that seperated the top of the text
 hr {
-    border-color: $theme-primary;
+    // border-color: $theme-primary;
+    border-color: #45B5AE;
     border-width: 3px;
     max-width: 50px;
 }
@@ -42,14 +45,16 @@ p {
     margin-bottom: 20px;
 }
 
-.bg-primary {
-    background-color: $theme-primary;
-}
+ .bg-primary {
+// background-color: $theme-primary;
+  background-color: #45B5AE;
+ }
 
-.bg-dark {
-    background-color: $theme-dark;
-    color: white;
-}
+// .bg-dark {
+//     // background-color: $theme-dark;
+//     background-color: #45B5AE;
+//     color: white;
+// }
 
 .text-faded {
     color: rgba(white, .7);
@@ -155,7 +160,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    background-image: url('../img/portfolio/goiters.jpg');
     text-align: center;
     color: white;
     .header-content {
@@ -231,7 +236,9 @@ header {
         color: white;
         opacity: 0;
         display: block;
-        background: rgba( $theme-primary, .9 );
+        // background color of the boxes when hovered over.
+        // background: rgba( $theme-primary, .9 );
+        background:rgba( #45B5AE, .9);
         position: absolute;
         bottom: 0;
         text-align: center;
@@ -300,7 +307,8 @@ header {
 }
 
 .btn-primary {
-    @include button-variant(white, $theme-primary, $theme-primary);
+    // @include button-variant(white, $theme-primary, $theme-primary);
+   @include button-variant(white, #45B5AE, #45B5AE);
 }
 
 .btn {
