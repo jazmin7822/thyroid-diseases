@@ -73,7 +73,7 @@ aside {
 }
 
 // Navigation
-
+    // Makes the NavBar transparent
 .navbar-default {
     background-color: white;
     border-color: rgba($theme-dark, .5);
@@ -113,6 +113,7 @@ aside {
             }
         }
     }
+// End of code for the NavBar transparent
     @media (min-width: 768px) {
         background-color: transparent;
         border-color: rgba(white, .3);
