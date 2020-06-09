@@ -7,6 +7,7 @@ This website is intended for viewers to learn more about why our thyroid is such
 
 
 Website: https://jazmin7822.github.io/thyroid-diseases/
+![thyroid-art.jpg](thyroid-art.jpg)
 
 <img src="../img/portfolio/thyroid-1.jpg" alt="An Image of the thyroid gland" width="250" height="200">
 <img src="../img/portfolio/T3-and-T4.jpg" alt="An Image of the thyroid gland" width="350" height="250">
@@ -15,3 +16,5 @@ Website: https://jazmin7822.github.io/thyroid-diseases/
 <img src="../img/portfolio/graves'.jpg" alt="An Image of the thyroid gland" width="300" height="200">
 <img src="../img/portfolio/goiters1.jpg" alt="An Image of the thyroid gland" width="400" height="300">
 <img src="../img/portfolio/thyroid-cancer.jpg" alt="An Image of the thyroid gland" width="400" height="300">
+
+
